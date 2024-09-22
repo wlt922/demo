@@ -1,0 +1,17 @@
+F:\project\WebApplication1\Service\bin\Debug\net8.0\Service.deps.json
+F:\project\WebApplication1\Service\bin\Debug\net8.0\Service.dll
+F:\project\WebApplication1\Service\bin\Debug\net8.0\Service.pdb
+F:\project\WebApplication1\Service\bin\Debug\net8.0\Repository.dll
+F:\project\WebApplication1\Service\bin\Debug\net8.0\Repository.pdb
+F:\project\WebApplication1\Service\obj\Debug\net8.0\Service.csproj.AssemblyReference.cache
+F:\project\WebApplication1\Service\obj\Debug\net8.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+F:\project\WebApplication1\Service\obj\Debug\net8.0\Service.AssemblyInfoInputs.cache
+F:\project\WebApplication1\Service\obj\Debug\net8.0\Service.AssemblyInfo.cs
+F:\project\WebApplication1\Service\obj\Debug\net8.0\Service.csproj.CoreCompileInputs.cache
+F:\project\WebApplication1\Service\obj\Debug\net8.0\Service.csproj.Up2Date
+F:\project\WebApplication1\Service\obj\Debug\net8.0\Service.dll
+F:\project\WebApplication1\Service\obj\Debug\net8.0\refint\Service.dll
+F:\project\WebApplication1\Service\obj\Debug\net8.0\Service.pdb
+F:\project\WebApplication1\Service\obj\Debug\net8.0\ref\Service.dll
+F:\project\WebApplication1\Service\bin\Debug\net8.0\Model.dll
+F:\project\WebApplication1\Service\bin\Debug\net8.0\Model.pdb
